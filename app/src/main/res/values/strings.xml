@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Quake Report with Loader</string>
+    <string name="app_name">Quake Report</string>
 
     <!-- Default text to show with the earthquake location ("Near the Pacific-Antarctic Ridge")
  if no specific kilometer distance from the primary location is given [CHAR LIMIT=30] -->
